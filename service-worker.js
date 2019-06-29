@@ -9,6 +9,11 @@ if (workbox) {
 }
 
 workbox.routing.registerRoute(
+  new RegExp('/'),
+  new workbox.strategies.NetworkFirst()
+);
+
+workbox.routing.registerRoute(
   new RegExp('.*\.html'),
   new workbox.strategies.NetworkFirst()
 );
