@@ -21,9 +21,6 @@ const renderList = function() {
     });
 
     const card = document.getElementById(ID_CONTENT);
-    if (card) {
-      console.log('Unable to find content element!');
-    }
     card.innerHTML = '';
     card.appendChild(ul);
   });
