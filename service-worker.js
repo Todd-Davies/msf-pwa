@@ -50,3 +50,14 @@ workbox.routing.registerRoute(
     ],
   })
 );
+
+workbox.routing.registerRoute(
+  new RegExp('/files/.*\.pdf'),
+  new workbox.strategies.NetworkFirst({
+    cacheName: 'file-cache',
+  }),
+);
+
+addEventListener('message', (event) => {
+    console.log(`The client sent me a message: ${event.data}`);
+});

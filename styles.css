@@ -53,7 +53,7 @@ body {
 .header {
   align-content: center;
   align-items: stretch;
-  background: #3f51b5;
+  background: #ed1c24;
   box-shadow:
     0 4px 5px 0 rgba(0, 0, 0, 0.14),
     0 2px 9px 1px rgba(0, 0, 0, 0.12),
@@ -291,4 +291,24 @@ body {
 
 @media (max-width: 450px) {
 
+}
+
+.articleTitle {
+  color: #ed1c24;
+}
+
+.articleItem {
+  display: flex;
+  flex-direction: column;
+  border-bottom: 1px solid;
+}
+
+.articleItem:last-child {
+  border-bottom: 0px solid;
+}
+
+.abstract {
+  font-size: 14px;
+  max-height: 100px;
+  overflow: overlay;
 }
