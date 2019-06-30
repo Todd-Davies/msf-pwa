@@ -63,9 +63,7 @@ body {
   flex-direction: row;
   flex-wrap: nowrap;
   font-size: 20px;
-  height: 56px;
   justify-content: flex-start;
-  padding: 16px 16px 0 16px;
   position: fixed;
   transition: transform 0.233s cubic-bezier(0, 0, 0.21, 1) 0.1s;
   width: 100%;
@@ -77,7 +75,7 @@ body {
   flex: 1;
   font-size: 20px;
   font-weight: 400;
-  margin: 0;
+  margin: 16px;
 }
 
 .header input {
@@ -87,6 +85,8 @@ body {
   overflow: hidden;
   transition: opacity 0.333s cubic-bezier(0, 0, 0.21, 1);
   width: 300px;
+  margin: 16px;
+
 }
 
 .header #butRefresh {
@@ -285,8 +285,15 @@ body {
  * Media query to adjust size of content for small screens
  */
 
-@media (max-width: 450px) {
+@media (max-width: 500px) {
+  .header {
+    display: flex;
+    flex-direction: column;
+  }
 
+  .main {
+    padding-top: 115px;
+  }
 }
 
 .articleTitle {
