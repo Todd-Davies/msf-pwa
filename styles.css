@@ -80,17 +80,13 @@ body {
   margin: 0;
 }
 
-.header button {
+.header input {
   border: none;
-  cursor: pointer;
   height: 24px;
   margin-right: 16px;
-  opacity: 0.54;
-  outline: none;
   overflow: hidden;
-  text-indent: -30000px;
   transition: opacity 0.333s cubic-bezier(0, 0, 0.21, 1);
-  width: 24px;
+  width: 300px;
 }
 
 .header #butRefresh {
