@@ -19,7 +19,7 @@
             <h1>
                 MSF Research
             </h1>
-            <input type="text" placeholder="Search.." id="search-box" onkeyup="search()">
+            <input type="text" placeholder="Search.." id="search-box" onkeyup="debounce(search, 200)()">
         </header>
 
         <main class="main">
