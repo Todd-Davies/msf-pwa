@@ -1,18 +1,46 @@
 [
   {
-    "name": "Test article 1",
-    "abstract": "Short abstract",
+    "name": "Knowledge, attitudes, and practices related to antibiotic use in Paschim Bardhaman District: A survey of healthcare providers in West Bengal, India.",
+    "abstract": "INTRODUCTION:\n\nAntibiotic misuse is widespread and contributes to antibiotic resistance, especially in less regulated health systems such as India. Although informal providers are involved with substantial segments of primary healthcare, their level of knowledge, attitudes, and practices is not well documented in the literature.\nOBJECTIVES:\n\nThis quantitative study systematically examines the knowledge, attitudes, and practices of informal and formal providers with respect to antibiotic use.\n\n METHODS:\n\nWe surveyed a convenience sample of 384 participants (96 allopathic doctors, 96 nurses, 96 informal providers, and 96 pharmacy shopkeepers) over a period of 8 weeks from December to February using a validated questionnaire developed in Italy. Our team created an equivalent, composite KAP score for each respondent in the survey, which was subsequently compared between providers. We then performed a multivariate logistic regression analysis to estimate the odds of having a low composite score (<80) based on occupation by comparing allopathic doctors (referent category) with all other study participants. The model was adjusted for age (included as a continuous variable) and gender.\n\nRESULTS:\n\nDoctors scored highest in questions assessing knowledge (77.3%) and attitudes (87.3%), but performed poorly in practices (67.6%). Many doctors knew that antibiotics were not indicated for viral infections, but over 87% (n = 82) reported prescribing them in this situation. Nurses, pharmacy shopkeepers, and informal providers were more likely to perform poorly on the survey compared to allopathic doctors (OR: 10.4, 95% CI 5.4, 20.0, p<0.01). 30.8% (n = 118) of all providers relied on pharmaceutical company representatives as a major source of information about antibiotics.\n\nCONCLUSIONS:\n\nOur findings indicate poor knowledge and awareness of antibiotic use and functions among informal health providers, and dissonance between knowledge and practices among allopathic doctors. The nexus between allopathic doctors, pharmaceutical company representatives, and informal health providers present promising avenues for future research and intervention.",
     "authors": [
-      "Alice",
-      "Bob"
-    ]
+      "Nair, M",
+      "Tripathi, S",
+      "Mazumdar, S",
+      "Mahajan, R",
+      "Harshana, A",
+      "Pereira, A",
+      "Jimenez, C",
+      "Halder, D",
+      "Burza, S"
+    ],
+    "file": "files/nair-antibiotics.pdf"
   },
   {
-    "name": "Test article 2",
-    "abstract": "Short abstract",
+    "name": "How patent law reform can improve affordability and accessibility of medicines in South Africa: Four medicine case studies",
+    "abstract": "South Africa (SA) is in the process of amending its patent laws. Since its 2011 inception, Fix the Patent Laws, a coalition of 40 patient groups, has advocated for reform of SA’s patent laws to improve affordability of medicines in the country. Building on two draft policies (2013, 2017) and a consultative framework (2016) for reform of SA’s patent laws, Cabinet approved phase 1 of the Intellectual Property Policy of the Republic of South Africa on 23 May 2018. Fix the Patent Laws welcomed the policy, but highlighted concerns regarding the absence of important technical details, as well as the urgent need for government to develop bills, regulations and guidelines to provide technical detail and to codify and implement patent law reform in the country. In this article, we explore how reforms proposed in SA’s new intellectual property policy could improve access to medicine through four medicine case studies.",
     "authors": [
-      "Claire",
-      "Danny"
-    ]
+      "Tomlinson, C",
+      "Waterhouse, C",
+      "Hu, YQ",
+      "Meyer, S",
+      "Moyo, H"
+    ],
+    "file": "files/tomlinson-patent.pdf"
+  },
+  {
+    "name": "Exploring global and country-level barriers to an effective supply of leishmaniasis medicines and diagnostics in eastern Africa: a qualitative study.",
+    "abstract": "OBJECTIVES:\nTo understand stakeholders' perceptions of the access barriers to quality-assured diagnostics and medicines for leishmaniasis in the high-burden region of eastern Africa, and to identify key bottlenecks to improve the supply of commodities for neglected tropical diseases.\n\nDESIGN:\nDesk reviews and qualitative in-depth interview study with purposive sampling.\n\nMETHODS:\nA landscape analysis through literature and desk review was performed. Next, 29 representatives from international organisations, non-governmental agencies, national control programmes from six countries (Ethiopia, Kenya, Somalia, South Sudan, Sudan and Uganda) and manufacturers were interviewed between May and July 2018. Participants were selected purposively and expanded through a snowballing technique.Data analysis was aided by NVivo, applying the framework method as a part of the thematic content analysis approach.\n\nRESULTS:\nThe barriers along the visceral leishmaniasis (VL) supply chain were identified as emerging themes, grouped across supply chain activities and health systems component(s). Stakeholders expressed the perception of progress, but bottlenecks persist. VL medicines, in general, lack multisource production capacity and with small market volume, expansion of suppliers is difficult. Procurement is plagued by forecasting difficulties, complex regulatory policies and procedures, and distribution challenges. Weak communication and coordination across different levels resulted in shortages and loss of trust among different actors. Cross-cutting issues spanned from limited political and resource commitment due to low awareness and limited in-country capacity. However, study respondents were optimistic to pursue several remedies, most importantly to build bridges between supply and demand sides through continued dialogue and collaborations. Diagnostics supply has mostly been overlooked; thus, improved investment in this area is needed.\n\nCONCLUSIONS:\n\nAddressing supply barriers in eastern Africa requires consistent, specific efforts at the global and national levels, progressing from current partnerships and agreements. Priority actions include pooled procurement, improved forecast, and increased commitment and resources. Sustainability remains an elusive goal, yet to be integrated into discussions moving forward.",
+    "authors": [
+      "Sunyoto, T",
+      "Potet, J",
+      "den Boer, M",
+      "Ritmeijer, K",
+      "Postigo, JAR",
+      "Ravinetto, R",
+      "Alves, F",
+      "Picado, A",
+      "Boelaert, M"
+    ],
+    "file": "files/sunyoto-barriers.pdf"
   }
 ]
